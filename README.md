@@ -8,3 +8,4 @@
     </tr>   
   </table>
 </center>  
+![](https://komarev.com/ghpvc/?username=juniortads&color=blue&style=flat)
